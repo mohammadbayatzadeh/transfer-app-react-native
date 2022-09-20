@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843575966470",
+    "project_id": "frodopay-fd31b",
+    "storage_bucket": "frodopay-fd31b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843575966470:android:ae22f3541391673308fc87",
+        "android_client_info": {
+          "package_name": "com.frodopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843575966470-8un8u6au0e1cua9eks6pdr9mn9r16od4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqjimABoq105WxR_M2qpPvCuYZdO_6YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843575966470-8un8u6au0e1cua9eks6pdr9mn9r16od4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
